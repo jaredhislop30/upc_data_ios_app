@@ -1,0 +1,16 @@
+1. Nyt on mahdollista muokata tuotetta (liu'uta lukukorttia ylös ja napauta "Muokkaa tätä tuotetta" Yhteenveto-sivulla.
+2. Korjasimme useita näyttö- ja sanamuoto-ongelmia.
+
+-- Aikaisemmin Open Food Factsissa --
+
+1. Ultranopea viivakoodinluku yhteydettömässä tilassa koko planeetalle. Tee parempia ruokavalintoja kaikissa olosuhteissa.
+2. Lue viivakoodi saadaksesi ravinnollisen laadun Nutri-Scoren avulla ja tunnistaaksesi ultrajalostetut ruoat NOVAn avulla.
+3. Laitteelle tallennettu rajaton tuotehistoria.
+4. Välitön haku 800 000 tuotteesta.
+5. Aseta hälytyksiä allergeeneille. 
+
+Paljon kiitoksia Open Food Factsin vapaaehtoisille ja osallistujille, jotka loivat nämä uudet ominaisuudet!
+
+Open Food Facts on voittoa tavoittelematon hanke, joka avaa ruokatietoja eri puolilta maailmaa. Tule mukaan osoitteessa https://fi.openfoodfacts.org
+
+Lue elintarvikkeiden viivakoodi tietääksesi, mitkä tuotteet ovat hyviä sinulle (ravinnollinen laatu: Nutri-Score, NOVA-ryhmä, lisäaineet ja allergeenihälytykset) ja planeetalle!
